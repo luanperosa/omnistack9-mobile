@@ -24,6 +24,8 @@ O projeto mobile foi desenvolvido com o <strong>Expo</strong>, siga os passos pa
 
 Depois do clone desse repositorio executar o comando `npm i` para instalar as dependencias e executar o comando `npm start`, irá abrir a interface do Expo, acessar a pasta raiz da aplicação, /src/services/api.js e na <strong>baseURL</strong> incluir o endereço IP que aparece na <strong>interface do Expo</strong> com excessão da porta. Realizar o mesmo procedimento na pasta src/pages/List.js incluindo o mesmo endereço IP no <strong>socketio</strong>. Vide o .gif abaixo para entender melhor todo o processo. 
 
+![API_URL_Reaeact_Native](https://user-images.githubusercontent.com/50602816/68896881-28470880-070b-11ea-933e-81385924dcba.gif)
+
 ## Link da API
 
 Está API foi publicada no Heroku, você pode testar a API com esse link abaixo
