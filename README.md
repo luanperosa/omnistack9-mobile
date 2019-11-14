@@ -1,6 +1,8 @@
 # omnistack9-mobile
 Semana Omnistack 9.0 da Rockatseat
 
+![1](https://user-images.githubusercontent.com/50602816/68897048-7bb95680-070b-11ea-96c0-1772c8ad0923.gif)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
