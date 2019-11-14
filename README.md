@@ -18,7 +18,7 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 
 <strong>Primeiramente acessar o [repositorio do back-end](https://github.com/luanperosa/omnistack9-backend) e seguir as instruções para executar a API.</strong>
 
-<strong>O proximo passo é acessar o [repositorio do front-end](https://github.com/luanperosa/omnistack9-front-end) e também seguir as instruçes para rodar a aplicação/strong>
+<strong>O proximo passo é acessar o [repositorio do front-end](https://github.com/luanperosa/omnistack9-front-end) e também seguir as instruçes para rodar a aplicação</strong>
 
 O projeto mobile foi desenvolvido com o <strong>Expo</strong>, siga os passos para rodar a aplicação no seu celular mas fique a vontade para acessar a documentaço do [Expo](https://expo.io) e verificar outras formas de testar o app mobile pelo emulador por exemplo. 
 
